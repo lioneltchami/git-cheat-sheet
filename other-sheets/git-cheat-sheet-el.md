@@ -8,11 +8,11 @@ Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awe
 
 # Άλλες διαθέσιμες γλώσσες:
 
-1. [Αραβικά](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md)
-2. [Κινέζικα](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md)
-3. [Ινδικά](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-hi.md)
-4. [Τουρκικά](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md)
-5. [Ισπανικά](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
+1. [Αραβικά](https://github.com/lioneltchami/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md)
+2. [Κινέζικα](https://github.com/lioneltchami/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md)
+3. [Ινδικά](https://github.com/lioneltchami/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-hi.md)
+4. [Τουρκικά](https://github.com/lioneltchami/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md)
+5. [Ισπανικά](https://github.com/lioneltchami/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
 
 Το "σκονάκι" για το Git σας γλιτώνει από την εκμάθηση όλων των εντολών απ' έξω.
 
@@ -622,6 +622,6 @@ git flow hotfix finish VERSION
 ### Το σχήμα του Git flow
 
 <p align="center">
-	<img alt="Git" src="../Img/git-flow-commands-without-flow.png">
+	<img alt="Git" src="../Img/git-flow-commands-without-flow.gif">
 </p>
 <hr>

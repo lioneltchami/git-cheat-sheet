@@ -716,6 +716,6 @@ git flow hotfix finish VERSION
 ### 깃 플로우 스키마
 
 <p align="center">
-    <img alt="Git" src="../Img/git-flow-commands-without-flow.png">
+    <img alt="Git" src="../Img/git-flow-commands-without-flow.gif">
 </p>
 <hr>
