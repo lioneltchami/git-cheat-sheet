@@ -616,6 +616,13 @@ git flow hotfix finish VERSION
 
 <hr>
 
+### Cheatsheet
+
+<p align="center">
+	<img alt="Git" src="../Img/gitcheatsheet.png">
+</p>
+<hr>
+
 ### Esquema de git flow
 <p align="center">
 	<img alt="Git" src="../Img/git-flow-commands-without-flow.gif">

@@ -603,6 +603,13 @@ git flow hotfix finish VERSION
 
 <hr>
 
+### Cheatsheet
+
+<p align="center">
+	<img alt="Git" src="../Img/gitcheatsheet.png">
+</p>
+<hr>
+
 ### Git flow şeması
 
 <p align="center">

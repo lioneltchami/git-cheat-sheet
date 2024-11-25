@@ -747,6 +747,13 @@ git flow hotfix finish VERSION
 </p>
 <hr>
 
+### Cheatsheet
+
+<p align="center">
+	<img alt="Git" src="../Img/gitcheatsheet.png">
+</p>
+<hr>
+
 ### Git flow schema
 
 <p align="center">

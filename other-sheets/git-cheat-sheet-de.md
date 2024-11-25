@@ -733,14 +733,21 @@ git flow hotfix finish VERSION
 
 ### Kommandos
 <p align="center">
-    <img alt="Git" src="./Img/git-flow-commands.png" height="270" width="460">
+    <img alt="Git" src="../Img/git-flow-commands.png" height="270" width="460">
+</p>
+<hr>
+
+### Cheatsheet
+
+<p align="center">
+	<img alt="Git" src="../Img/gitcheatsheet.png">
 </p>
 <hr>
 
 ### Git flow Schema
 
 <p align="center">
-    <img alt="Git" src="Img/git-flow-commands-without-flow.gif">
+    <img alt="Git" src="../Img/git-flow-commands-without-flow.gif">
 </p>
 <hr>
 

@@ -868,6 +868,13 @@ git flow hotfix finish VERSÃO
 </p>
 <hr>
 
+### Cheatsheet
+
+<p align="center">
+	<img alt="Git" src="../Img/gitcheatsheet.png">
+</p>
+<hr>
+
 ### Esquema git flow
 
 <p align="center">

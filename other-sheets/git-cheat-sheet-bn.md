@@ -734,7 +734,14 @@ git flow hotfix finish VERSION
 
 ### কমান্ড
 <p align="center">
-    <img alt="Git" src=".././Img/git-flow-commands.png" height="270" width="460">
+    <img alt="Git" src="../Img/git-flow-commands.png" height="270" width="460">
+</p>
+<hr>
+
+### 
+
+<p align="center">
+	<img alt="Git" src="../Img/gitcheatsheet.png">
 </p>
 <hr>
 

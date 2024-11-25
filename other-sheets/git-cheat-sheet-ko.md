@@ -713,6 +713,13 @@ git flow hotfix finish VERSION
 </p>
 <hr>
 
+###
+
+<p align="center">
+	<img alt="Git" src="../Img/gitcheatsheet.png">
+</p>
+<hr>
+
 ### 깃 플로우 스키마
 
 <p align="center">
